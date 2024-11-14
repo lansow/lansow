@@ -1,6 +1,6 @@
 <div align="center">
   <!-- لینک عکس بنر شما را در src قرار دهید -->
-  <img src="https://link-to-your-banner-image.jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/lansow/lansow/blob/main/Artboard%201.jpg" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">سلام! من [اسم شما] هستم 👋</h1>
