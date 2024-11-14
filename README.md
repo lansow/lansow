@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lansow&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lansow&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=lansow&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
