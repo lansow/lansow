@@ -22,8 +22,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lansow&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lansow&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=synthwave" alt="GitHub Streak" />
 
 </div>
 
