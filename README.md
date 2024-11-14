@@ -21,8 +21,8 @@
 ### آمار گیت‌هاب
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=calm" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=calm" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lansow&show_icons=true&theme=calm" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lansow&theme=calm" alt="GitHub Streak" />
 </div>
 
 ---
