@@ -6,7 +6,8 @@
 <h1 align="center">سلام! من لنسو ام 👋</h1>
 <h3 align="center">فرانت دولوپر جونیور</h3>
 
-
+---
+  <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
 ---
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
