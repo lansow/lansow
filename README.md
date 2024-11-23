@@ -12,8 +12,7 @@
 
 ---
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<img class="cropimg" src="https://raw.githubusercontent.com/lansow/NobleMajo/main/10text-bg.png" alt="Dark NobleMajo banner background" style="width: 100%;" />
 
 ---
 
