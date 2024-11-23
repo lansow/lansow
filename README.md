@@ -8,7 +8,7 @@
 
 ---
 
-  <img  src="https://komarev.com/ghpvc/?username=Lansow&color=green" alt=""/>
+   <img width="1000" src="assets/snake.svg" alt="snake"/>
 
 ---
 
