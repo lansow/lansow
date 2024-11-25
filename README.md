@@ -6,14 +6,14 @@
 <h1 align="center">سلام! من لنسو ام 👋</h1>
 <h3 align="center">فرانت دولوپر جونیور</h3>
 
---
+---
 
   ![](https://komarev.com/ghpvc/?username=lansow&style=flat-square&color=grey)
 
    <img width="1000" src="assets/snake.svg" alt="snake"/>
 
 
---
+---
 
 ### درباره من
 
