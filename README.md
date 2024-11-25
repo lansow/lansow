@@ -10,7 +10,7 @@
 
   ![](https://komarev.com/ghpvc/?username=lansow&style=flat-square&color=grey)
 
-   <img width="1000" src="(https://github.com/lansow/lansow/blob/main/github-user-contribution.svg)" alt="snake"/>
+   <img width="100%" src="(https://github.com/lansow/lansow/blob/main/github-user-contribution.svg)" alt="snake"/>
 
 
 ---
