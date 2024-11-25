@@ -7,11 +7,13 @@
 <h3 align="center">فرانت دولوپر جونیور</h3>
 
 ---
-
+<div align="center">
+  
   ![](https://komarev.com/ghpvc/?username=lansow&style=flat-square&color=grey)
 
    <img width="100%" src="https://raw.githubusercontent.com/lansow/lansow/refs/heads/main/github-user-contribution.svg" alt="snake"/>
 
+</div>
 
 ---
 
