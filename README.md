@@ -8,7 +8,7 @@
 
 --
 
-  ![](https://komarev.com/ghpvc/?lansow&color=grey)
+  ![](https://komarev.com/ghpvc/?username=lansow&color=grey)
 
    <img width="1000" src="assets/snake.svg" alt="snake"/>
 
