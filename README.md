@@ -37,6 +37,6 @@
 
 <div align="center">
   <a href="https://www.instagram.com/lansows"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/></a>
   <a href="https://www.youtube.com/channel/UCdDHO6NV52oI1hx-Ui4-LBg"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube"/></a>
 </div>
