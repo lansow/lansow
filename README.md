@@ -2,14 +2,14 @@
   <img src="https://github.com/lansow/lansow/blob/main/Artboard%201.jpg" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">Hey, I'm Mehdi Davoodi (Lansow) 👋</h1>
-
-<h3 align="center">
-Product-Oriented Fullstack JavaScript Developer
-</h3>
+<h1 align="center">Mehdi Davoodi (Lansow)</h1>
 
 <p align="center">
-Building modern, scalable, and user-centered web experiences.
+Product-Oriented Fullstack JavaScript Developer
+</p>
+
+<p align="center">
+Focused on building scalable web applications, modern frontend systems, and user-centered digital products.
 </p>
 
 ---
@@ -24,16 +24,17 @@ Building modern, scalable, and user-centered web experiences.
 
 ---
 
-## About Me
+## About
 
-* 🚀 Product-Oriented Fullstack JavaScript Developer with startup experience
-* ⚛️ Focused on React.js, Next.js, and modern frontend architecture
-* 🧠 Experienced in SSR/CSR rendering, scalable UI systems, and performance optimization
-* 🔧 Building APIs and backend services using Node.js, Express.js, and GraphQL
-* 🗄 Working with MongoDB, MySQL, and Redis in real-world projects
-* 🎨 Interested in UI/UX, product design, and crafting polished user experiences
-* 📚 Currently exploring DevOps and infrastructure concepts
-* 🌱 Open-source contributor and passionate about continuous learning
+I'm a Fullstack JavaScript Developer with startup experience in product development, frontend engineering, and UI/UX design.
+
+My primary focus is building modern frontend applications using React.js and Next.js, with experience in frontend architecture, SSR/CSR rendering strategies, state management, scalable UI systems, and performance-oriented development.
+
+On the backend side, I work with Node.js, Express.js, and GraphQL to build APIs, real-time systems, and scalable backend services. I also have hands-on experience working with MongoDB, MySQL, and Redis in production environments.
+
+Beyond engineering, I'm deeply interested in product thinking, user experience, interface design, and development workflows.
+
+This GitHub profile contains selected projects, open-source contributions, technical experiments, and ongoing learning projects.
 
 ---
 
@@ -63,7 +64,7 @@ Building modern, scalable, and user-centered web experiences.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lansow&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=lansow&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 <br />
 
@@ -81,12 +82,12 @@ Building modern, scalable, and user-centered web experiences.
   <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:lanwoyt@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UCdDHO6NV52oI1hx-Ui4-LBg">
-  <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube"/>
-</a>
+## <a href="https://www.youtube.com/channel/UCdDHO6NV52oI1hx-Ui4-LBg">
+##  <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube"/>
+## </a>
 
 </div>
