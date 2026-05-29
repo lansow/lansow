@@ -16,7 +16,9 @@ Focused on building scalable web applications, modern frontend systems, and user
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=lansow\&style=flat-square\&color=grey)
+![](https://komarev.com/ghpvc/?username=lansow\&style=flat-square\&color=blueviolet)
+
+<br />
 
 <img width="100%" src="https://raw.githubusercontent.com/lansow/lansow/refs/heads/main/github-user-contribution.svg" alt="snake"/>
 
@@ -42,19 +44,22 @@ This GitHub profile contains selected projects, open-source contributions, techn
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=next.js)
-![Node JS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-111111?style=for-the-badge\&logo=express)
-![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=for-the-badge\&logo=graphql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge\&logo=redis)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge\&logo=tailwindcss)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=3C873A)
+![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge\&logo=express\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge\&logo=graphql\&logoColor=E10098)
+
+<br />
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge\&logo=redis\&logoColor=DC382D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
 
 </div>
 
@@ -64,11 +69,25 @@ This GitHub profile contains selected projects, open-source contributions, techn
 
 <div align="center">
 
-<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=lansow&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<table>
+<tr>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lansow&theme=tokyonight" />
+
+</td>
+
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lansow&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lansow&theme=tokyonight" alt="GitHub Streak"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lansow&theme=tokyonight" />
 
 </div>
 
@@ -79,15 +98,11 @@ This GitHub profile contains selected projects, open-source contributions, techn
 <div align="center">
 
 <a href="https://www.instagram.com/lansows">
-  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 
 <a href="mailto:lanwoyt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
-
-## <a href="https://www.youtube.com/channel/UCdDHO6NV52oI1hx-Ui4-LBg">
-##  <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube"/>
-## </a>
 
 </div>
