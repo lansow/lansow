@@ -3,12 +3,13 @@
 </div>
 
 <h1 align="center">Hey, I'm Mehdi Davoodi (Lansow) 👋</h1>
+
 <h3 align="center">
 Product-Oriented Fullstack JavaScript Developer
 </h3>
 
 <p align="center">
-Focused on building scalable, user-centered, and modern web experiences.
+Building modern, scalable, and user-centered web experiences.
 </p>
 
 ---
@@ -25,14 +26,14 @@ Focused on building scalable, user-centered, and modern web experiences.
 
 ## About Me
 
-* 🚀 Product-oriented Fullstack JavaScript Developer with startup experience
-* ⚛️ Mainly focused on React.js and Next.js ecosystem
-* 🧠 Interested in frontend architecture, scalable systems, and UI/UX
-* 🔥 Experienced with SSR/CSR rendering strategies, performance optimization, and responsive UI development
-* 🛠 Building APIs and backend services using Node.js, Express.js, and GraphQL
+* 🚀 Product-Oriented Fullstack JavaScript Developer with startup experience
+* ⚛️ Focused on React.js, Next.js, and modern frontend architecture
+* 🧠 Experienced in SSR/CSR rendering, scalable UI systems, and performance optimization
+* 🔧 Building APIs and backend services using Node.js, Express.js, and GraphQL
 * 🗄 Working with MongoDB, MySQL, and Redis in real-world projects
-* 🎨 Passionate about product design, user experience, and creating polished interfaces
+* 🎨 Interested in UI/UX, product design, and crafting polished user experiences
 * 📚 Currently exploring DevOps and infrastructure concepts
+* 🌱 Open-source contributor and passionate about continuous learning
 
 ---
 
@@ -52,18 +53,9 @@ Focused on building scalable, user-centered, and modern web experiences.
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge\&logo=redis)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge\&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma)
 
 </div>
-
----
-
-## Current Focus
-
-* Building modern fullstack web applications
-* Designing scalable frontend architectures
-* Improving product experience and UI systems
-* Exploring DevOps workflows and infrastructure
-* Contributing to open-source and experimental projects
 
 ---
 
@@ -72,6 +64,8 @@ Focused on building scalable, user-centered, and modern web experiences.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lansow&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lansow&theme=tokyonight" alt="GitHub Streak"/>
 
